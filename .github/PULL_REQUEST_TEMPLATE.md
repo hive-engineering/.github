@@ -7,7 +7,6 @@ required and any potential issues to look out for.
 
 - [ ] 🧪 Ensure you have written tests
 - [ ] 🧑‍🔬 Test your code in the appropriate environment (i.e development/staging/production)
-- [ ] :shipit: Post an update in #ship-it 
 
 ## Reference
 
