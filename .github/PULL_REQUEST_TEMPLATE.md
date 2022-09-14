@@ -6,7 +6,7 @@ Please include a summary of the change along with the reasoning and/or motivatio
 
 - [ ] 🧪 Ensure you have written tests
 - [ ] 🧑‍🔬 Test your code in the appropriate environment (i.e development/staging/production)
-- [ ] 🗨️ Inform PM when merged if the change is relevant for the rest of the company
+- [ ] 🗨️ Inform PM when PR is merged if the change is relevant to the rest of the company
 
 ## Reference
 
