@@ -1,6 +1,6 @@
 ## Context/Change
 
-Please include a summary of the change along with the reasoning and/or motivation behind it. List any dependencies that are required and any potential issues to look out for.
+copilot:summary
 
 ## Checklist
 
